@@ -42,7 +42,4 @@ Contribuições, problemas e solicitações de recursos são bem-vindos! Fique �
 
 ## Ajude
 
-Dê a ⭐️ ise este projeto ajudar você!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Dê a ⭐️ se este projeto ajudar você!
