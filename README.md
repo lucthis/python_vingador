@@ -1,5 +1,7 @@
 # Python Vingador
 
+![Build Status](https://badgen.net/badge/Build/Failure/red) ![Build Status](https://badgen.net/badge/Ver/2.1.2/blue) ![Build Status](https://badgen.net/badge/status/Failure/red) ![Build Status](https://badgen.net/badge/dependencies/out_of_date/orange)
+
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
 
